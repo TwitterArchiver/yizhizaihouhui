@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:09:42",
+  "last_updated": "2026-08-02T12:10:39",
   "html": {
     "https://web.archive.org/web/20260712154703if_/https://twitter.com/yizhizaihouhui/status/2076332519788863509": {
       "status": "done",
@@ -1326,9 +1326,9 @@
       "referenced_by": [
         "20260712062029_twitter_com_yizhizaihouhui_status_2076189938463445194.json"
       ],
-      "last_updated": "2026-08-02T11:24:56",
+      "last_updated": "2026-08-02T12:10:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260712062029if_/https://pbs.twimg.com/profile_images/1946245493119393793/fwivzzQj_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg": {
       "status": "done",
@@ -1380,9 +1380,9 @@
       "referenced_by": [
         "20260714063228_twitter_com_yizhizaihouhui_status_2076917729358168079.json"
       ],
-      "last_updated": "2026-08-02T11:24:56",
+      "last_updated": "2026-08-02T12:10:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260714063228if_/https://pbs.twimg.com/profile_images/2053568029733302272/o-jCjr8t_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1637906824727781376/RywI3A-4_normal.jpg": {
       "status": "done",
