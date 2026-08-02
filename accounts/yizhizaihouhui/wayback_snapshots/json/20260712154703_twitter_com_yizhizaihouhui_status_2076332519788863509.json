@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2076007186258612355",
+    "created_at": "2026-07-12T15:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076332519788863509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076332519788863509",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076252029715116248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 原来是这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076007186258612355",
+        "created_at": "2026-07-12T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076332519788863509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076332519788863509",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076252029715116248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 原来是这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803642368949886976",
+        "conversation_id": "2076007186258612355",
+        "created_at": "2026-07-12T10:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076252029715116248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "yizhizaihouhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252029715116248",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076007186258612355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhizaihouhui ？可能是因为都是机器人吧，某些机器人评论推特好像会屏蔽掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 53,
+          "like_count": 1251,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|纯绿 |日常and碎碎念|不线下不约 | 推广自辨",
+        "id": "1803642368949886976",
+        "location": " Tokyo ",
+        "name": "小毛米",
+        "pinned_tweet_id": "2068611431579459836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13140,
+          "following_count": 346,
+          "like_count": 52052,
+          "listed_count": 18,
+          "media_count": 547,
+          "tweet_count": 13390
+        },
+        "url": "",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

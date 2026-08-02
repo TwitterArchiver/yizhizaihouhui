@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077704795381805056"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2077704803699032482",
+    "created_at": "2026-07-16T10:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077704803699032482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9NZHv8nJsE",
+          "end": 31,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2077704803699032482/photo/1",
+          "media_key": "3_2077704795381805056",
+          "start": 8,
+          "url": "https://t.co/9NZHv8nJsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077704803699032482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骂我的都是杯子 https://t.co/9NZHv8nJsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077704795381805056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV9gNTbsAAid1K.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077704795381805056"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2077704803699032482",
+        "created_at": "2026-07-16T10:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077704803699032482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NZHv8nJsE",
+              "end": 31,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2077704803699032482/photo/1",
+              "media_key": "3_2077704795381805056",
+              "start": 8,
+              "url": "https://t.co/9NZHv8nJsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077704803699032482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骂我的都是杯子 https://t.co/9NZHv8nJsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 55,
+          "like_count": 1274,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 1137
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

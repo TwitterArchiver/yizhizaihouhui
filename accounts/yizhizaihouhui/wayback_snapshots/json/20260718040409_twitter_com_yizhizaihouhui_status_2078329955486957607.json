@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2078329955486957607",
+    "created_at": "2026-07-18T04:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078329955486957607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723546829454032896",
+          "start": 3,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078329955486957607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051527837619036362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeshsbxhjs: ←这里是秋秋！៷&gt;𖥦&lt;៷ \n09 高中生 互fo了的宝宝可以找我聊天呀 我很开心可以和你们做朋友～ ˶&gt;ヮ&lt;˶给我分享日常的我亲死你们好吧 😋  扩列可以找我扩qq（虽然我不怎么发 看来我要开始营qq了） 这是暂时的 我到时候可能会搞新的好吧😋…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051527818887208960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh9rouaoAAWvCq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2051527818883080193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh9rotboAEyWfu.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2078329955486957607",
+        "created_at": "2026-07-18T04:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078329955486957607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723546829454032896",
+              "start": 3,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078329955486957607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051527837619036362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeshsbxhjs: ←这里是秋秋！៷&gt;𖥦&lt;៷ \n09 高中生 互fo了的宝宝可以找我聊天呀 我很开心可以和你们做朋友～ ˶&gt;ヮ&lt;˶给我分享日常的我亲死你们好吧 😋  扩列可以找我扩qq（虽然我不怎么发 看来我要开始营qq了） 这是暂时的 我到时候可能会搞新的好吧😋…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051527818887208960",
+            "3_2051527818883080193"
+          ]
+        },
+        "author_id": "1723546829454032896",
+        "conversation_id": "2051527837619036362",
+        "created_at": "2026-05-05T05:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051527837619036362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxuUkgXDYj",
+              "end": 181,
+              "expanded_url": "https://x.com/yeshsbxhjs/status/2051527837619036362/photo/1",
+              "media_key": "3_2051527818887208960",
+              "start": 158,
+              "url": "https://t.co/RxuUkgXDYj"
+            },
+            {
+              "display_url": "pic.x.com/RxuUkgXDYj",
+              "end": 181,
+              "expanded_url": "https://x.com/yeshsbxhjs/status/2051527837619036362/photo/1",
+              "media_key": "3_2051527818883080193",
+              "start": 158,
+              "url": "https://t.co/RxuUkgXDYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051527837619036362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 55966,
+          "like_count": 265,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "←这里是秋秋！៷&gt;𖥦&lt;៷ \n09 高中生 互fo了的宝宝可以找我聊天呀 我很开心可以和你们做朋友～ ˶&gt;ヮ&lt;˶给我分享日常的我亲死你们好吧 😋  扩列可以找我扩qq（虽然我不怎么发 看来我要开始营qq了） 这是暂时的 我到时候可能会搞新的好吧😋 熟悉了后我可能话会超级多 请不要嫌我烦T^T https://t.co/RxuUkgXDYj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 53,
+          "like_count": 1271,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！（欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人 互fo的宝宝可以找我聊天 我很社恐 说话像人机 没回就是手机不在……或者我在睡觉 斐济杯@shennaichuan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "shennaichuan_"
+              }
+            ]
+          }
+        },
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "pinned_tweet_id": "2051527837619036362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051218647474135040/7Z32hHKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 189,
+          "like_count": 651,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

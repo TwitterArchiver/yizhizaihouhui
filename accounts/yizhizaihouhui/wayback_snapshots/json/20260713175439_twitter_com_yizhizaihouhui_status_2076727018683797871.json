@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076658752217038848"
+      ],
+      "media_source_tweet_id": [
+        "2076658768629350400"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2076727018683797871",
+    "created_at": "2026-07-13T17:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076727018683797871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 36,
+          "start": 25,
+          "tag": "地雷女子と繋がりたい"
+        },
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "地雷チャン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030499926439034880",
+          "start": 3,
+          "username": "beard_greggy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y9njHtLX09",
+          "end": 67,
+          "expanded_url": "https://x.com/beard_greggy/status/2076658768629350400/photo/1",
+          "media_key": "3_2076658752217038848",
+          "start": 44,
+          "url": "https://t.co/y9njHtLX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076727018683797871",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076658768629350400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beard_greggy: #自撮り界隈 #地雷女子と繋がりたい #地雷チャン https://t.co/y9njHtLX09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076658752217038848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHGIe2aQAAVjyt.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076658752217038848"
+          ],
+          "media_source_tweet_id": [
+            "2076658768629350400"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076727018683797871",
+        "created_at": "2026-07-13T17:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076727018683797871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 36,
+              "start": 25,
+              "tag": "地雷女子と繋がりたい"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "地雷チャン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030499926439034880",
+              "start": 3,
+              "username": "beard_greggy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9njHtLX09",
+              "end": 67,
+              "expanded_url": "https://x.com/beard_greggy/status/2076658768629350400/photo/1",
+              "media_key": "3_2076658752217038848",
+              "start": 44,
+              "url": "https://t.co/y9njHtLX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076727018683797871",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076658768629350400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beard_greggy: #自撮り界隈 #地雷女子と繋がりたい #地雷チャン https://t.co/y9njHtLX09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076658752217038848"
+          ]
+        },
+        "author_id": "2030499926439034880",
+        "conversation_id": "2076658768629350400",
+        "created_at": "2026-07-13T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076658768629350400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 18,
+              "start": 7,
+              "tag": "地雷女子と繋がりたい"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "地雷チャン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9njHtLX09",
+              "end": 49,
+              "expanded_url": "https://x.com/beard_greggy/status/2076658768629350400/photo/1",
+              "media_key": "3_2076658752217038848",
+              "start": 26,
+              "url": "https://t.co/y9njHtLX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076658768629350400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #地雷女子と繋がりたい #地雷チャン https://t.co/y9njHtLX09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 55,
+          "like_count": 1259,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1111
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T04:24:46.000Z",
+        "description": "",
+        "id": "2030499926439034880",
+        "location": "Santa Clara",
+        "name": "好想吃🍧",
+        "pinned_tweet_id": "2076655003075494109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044074805448847366/-oqxuscV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "beard_greggy",
+        "verified": false
+      }
+    ]
+  }
+}

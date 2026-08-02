@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083241102933696512"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2083241176396960167",
+    "created_at": "2026-07-31T17:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083241176396960167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/noBEL1lnGH",
+          "end": 30,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2083241176396960167/video/1",
+          "media_key": "13_2083241102933696512",
+          "start": 7,
+          "url": "https://t.co/noBEL1lnGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083241176396960167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好虐的头肩比 https://t.co/noBEL1lnGH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14930,
+        "height": 1280,
+        "media_key": "13_2083241102933696512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083241102933696512/img/oXgod2WSeFYI-8y5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083241102933696512/vid/avc1/320x568/7SR0w_900vbu8N-y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083241102933696512/vid/avc1/480x852/OQp95tMROOhC8VrB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083241102933696512/vid/avc1/720x1280/wT0JNXI30WauL1x2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083241102933696512/pl/8BlxWnFICCdyCVtU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083241102933696512"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2083241176396960167",
+        "created_at": "2026-07-31T17:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083241176396960167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/noBEL1lnGH",
+              "end": 30,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2083241176396960167/video/1",
+              "media_key": "13_2083241102933696512",
+              "start": 7,
+              "url": "https://t.co/noBEL1lnGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083241176396960167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好虐的头肩比 https://t.co/noBEL1lnGH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2082150814752350319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 43,
+          "like_count": 1325,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

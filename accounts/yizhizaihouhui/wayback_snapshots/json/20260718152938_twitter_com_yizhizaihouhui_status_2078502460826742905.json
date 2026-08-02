@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2078502460826742905",
+    "created_at": "2026-07-18T15:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078502460826742905"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "いいねで気になった人お迎え"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "友達募集"
+        },
+        {
+          "end": 99,
+          "start": 87,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 112,
+          "start": 100,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 125,
+          "start": 113,
+          "tag": "自撮り界隈と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989683790617382912",
+          "start": 3,
+          "username": "sequel_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078502460826742905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028676407652753761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequel_ovo: ♡꒦꒷ tag꒦꒷♡\n♡努カしてるからかわいいの♡\n10｜おんな｜地雷系\n♡ 気になりさんお迎え♡\n#いいねで気になった人お迎え #友達募集 #病み垢さんと繋がりたい #地雷系さんと繋がりたい #自撮り界隈と繋がりたい #レズビアンさんと繫がりた…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2028676382554017792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdOa-pbUAAwneD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028676382545596416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdOa-na0AAWU8h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2078502460826742905",
+        "created_at": "2026-07-18T15:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078502460826742905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "いいねで気になった人お迎え"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "友達募集"
+            },
+            {
+              "end": 99,
+              "start": 87,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 112,
+              "start": 100,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 125,
+              "start": 113,
+              "tag": "自撮り界隈と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989683790617382912",
+              "start": 3,
+              "username": "sequel_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078502460826742905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028676407652753761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sequel_ovo: ♡꒦꒷ tag꒦꒷♡\n♡努カしてるからかわいいの♡\n10｜おんな｜地雷系\n♡ 気になりさんお迎え♡\n#いいねで気になった人お迎え #友達募集 #病み垢さんと繋がりたい #地雷系さんと繋がりたい #自撮り界隈と繋がりたい #レズビアンさんと繫がりた…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028676382554017792",
+            "3_2028676382545596416"
+          ]
+        },
+        "author_id": "1989683790617382912",
+        "conversation_id": "2028676407652753761",
+        "created_at": "2026-03-03T03:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028676407652753761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 50,
+              "tag": "いいねで気になった人お迎え"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "友達募集"
+            },
+            {
+              "end": 83,
+              "start": 71,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 96,
+              "start": 84,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 109,
+              "start": 97,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 124,
+              "start": 110,
+              "tag": "レズビアンさんと繫がりたい"
+            },
+            {
+              "end": 131,
+              "start": 125,
+              "tag": "いいね返し"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyNVYiX7ru",
+              "end": 155,
+              "expanded_url": "https://x.com/sequel_ovo/status/2028676407652753761/photo/1",
+              "media_key": "3_2028676382554017792",
+              "start": 132,
+              "url": "https://t.co/IyNVYiX7ru"
+            },
+            {
+              "display_url": "pic.x.com/IyNVYiX7ru",
+              "end": 155,
+              "expanded_url": "https://x.com/sequel_ovo/status/2028676407652753761/photo/1",
+              "media_key": "3_2028676382545596416",
+              "start": 132,
+              "url": "https://t.co/IyNVYiX7ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028676407652753761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 65411,
+          "like_count": 484,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "♡꒦꒷ tag꒦꒷♡\n♡努カしてるからかわいいの♡\n10｜おんな｜地雷系\n♡ 気になりさんお迎え♡\n#いいねで気になった人お迎え #友達募集 #病み垢さんと繋がりたい #地雷系さんと繋がりたい #自撮り界隈と繋がりたい #レズビアンさんと繫がりたい #いいね返し https://t.co/IyNVYiX7ru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 55,
+          "like_count": 1272,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "喜欢钱 @sequel5418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "sequel5418"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/sequeliscute",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/sequeliscute",
+                "start": 0,
+                "url": "https://t.co/viv2Wfds2V"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "广深港🚪88/188/288/888",
+        "name": "续集",
+        "pinned_tweet_id": "2028676407652753761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032109712427401217/ANzWnftu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 69,
+          "like_count": 4602,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/viv2Wfds2V",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

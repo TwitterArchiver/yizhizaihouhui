@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2082550811134185632",
+    "created_at": "2026-07-29T19:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082550811134185632"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082550811134185632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备去卖冥币了 身边那么多死全家的一定能发财"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2082550811134185632",
+        "created_at": "2026-07-29T19:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082550811134185632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082550811134185632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备去卖冥币了 身边那么多死全家的一定能发财"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2082150814752350319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 44,
+          "like_count": 1319,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

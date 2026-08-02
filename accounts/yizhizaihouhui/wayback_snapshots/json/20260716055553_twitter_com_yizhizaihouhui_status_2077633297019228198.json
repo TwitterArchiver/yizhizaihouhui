@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1996196604202631168"
+      ],
+      "media_source_tweet_id": [
+        "1996196617935028518"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2077633297019228198",
+    "created_at": "2026-07-16T05:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077633297019228198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "932768194405781504",
+          "start": 3,
+          "username": "s44nti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UTXgcai7dm",
+          "end": 109,
+          "expanded_url": "https://x.com/user0000O0/status/1996196617935028518/photo/1",
+          "media_key": "16_1996196604202631168",
+          "start": 86,
+          "url": "https://t.co/UTXgcai7dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077633297019228198",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4414
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077403849862619386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s44nti: \"¿por qué tardas tanto en responder?\"\nel estado en el que me encuentro:\n\n https://t.co/UTXgcai7dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "16_1996196604202631168",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7PqPDdWwAA-pSh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7PqPDdWwAA-pSh.mp4"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1996196604202631168"
+          ],
+          "media_source_tweet_id": [
+            "1996196617935028518"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2077633297019228198",
+        "created_at": "2026-07-16T05:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077633297019228198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "932768194405781504",
+              "start": 3,
+              "username": "s44nti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTXgcai7dm",
+              "end": 109,
+              "expanded_url": "https://x.com/user0000O0/status/1996196617935028518/photo/1",
+              "media_key": "16_1996196604202631168",
+              "start": 86,
+              "url": "https://t.co/UTXgcai7dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077633297019228198",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077403849862619386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s44nti: \"¿por qué tardas tanto en responder?\"\nel estado en el que me encuentro:\n\n https://t.co/UTXgcai7dm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1996196604202631168"
+          ],
+          "media_source_tweet_id": [
+            "1996196617935028518"
+          ]
+        },
+        "author_id": "932768194405781504",
+        "conversation_id": "2077403849862619386",
+        "created_at": "2026-07-15T14:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077403849862619386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTXgcai7dm",
+              "end": 97,
+              "expanded_url": "https://x.com/user0000O0/status/1996196617935028518/photo/1",
+              "media_key": "16_1996196604202631168",
+              "start": 74,
+              "url": "https://t.co/UTXgcai7dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077403849862619386",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 527,
+          "impression_count": 111918,
+          "like_count": 13367,
+          "quote_count": 85,
+          "reply_count": 14,
+          "retweet_count": 4414
+        },
+        "reply_settings": "everyone",
+        "text": "\"¿por qué tardas tanto en responder?\"\nel estado en el que me encuentro:\n\n https://t.co/UTXgcai7dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 55,
+          "like_count": 1273,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T00:30:42.000Z",
+        "description": "el de los tweets",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/s44nti/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/s44nti/",
+                "start": 0,
+                "url": "https://t.co/UUBC2ZqqLa"
+              }
+            ]
+          }
+        },
+        "id": "932768194405781504",
+        "location": "Pachuca, México ",
+        "name": "s44nti",
+        "pinned_tweet_id": "2072760517668610084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052235782996316165/38JMyglK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77946,
+          "following_count": 67,
+          "like_count": 59168,
+          "listed_count": 123,
+          "media_count": 2148,
+          "tweet_count": 5644
+        },
+        "url": "https://t.co/UUBC2ZqqLa",
+        "username": "s44nti",
+        "verified": false
+      }
+    ]
+  }
+}

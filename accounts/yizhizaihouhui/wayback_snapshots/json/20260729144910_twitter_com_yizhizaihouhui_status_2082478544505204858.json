@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2081791594907435305",
+    "created_at": "2026-07-29T14:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082478544505204858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468586902169460736",
+          "start": 0,
+          "username": "hhjakane311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082478544505204858",
+    "in_reply_to_user_id": "1468586902169460736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081791594907435305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjakane311 好漂亮呀这是什么裙子呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081791573252268033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQCZ_QaYAEqMhu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2081791594907435305",
+        "created_at": "2026-07-29T14:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082478544505204858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468586902169460736",
+              "start": 0,
+              "username": "hhjakane311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082478544505204858",
+        "in_reply_to_user_id": "1468586902169460736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081791594907435305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjakane311 好漂亮呀这是什么裙子呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081791573252268033"
+          ]
+        },
+        "author_id": "1468586902169460736",
+        "conversation_id": "2081791594907435305",
+        "created_at": "2026-07-27T17:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081791594907435305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "门槛"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "陪聊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRzyL9A9Gt",
+              "end": 89,
+              "expanded_url": "https://x.com/hhjakane311/status/2081791594907435305/photo/1",
+              "media_key": "3_2081791573252268033",
+              "start": 66,
+              "url": "https://t.co/SRzyL9A9Gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081791594907435305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "觉得我萌的扣1\n觉得我蠢的扣圆周率\n觉得我傻的扣圆周率\n觉得我应该打死的扣圆周率\n觉得我可爱的扣1\n#自撮り界隈  #门槛 #陪聊 https://t.co/SRzyL9A9Gt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2082150814752350319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 44,
+          "like_count": 1317,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1154
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T14:23:05.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "1468586902169460736",
+        "location": "🚪88/188/288/520/1314 问坐标20r🍧",
+        "name": "akane",
+        "pinned_tweet_id": "2055606002653778261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055018362447724544/XlKreXLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 13,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "hhjakane311",
+        "verified": false
+      }
+    ]
+  }
+}

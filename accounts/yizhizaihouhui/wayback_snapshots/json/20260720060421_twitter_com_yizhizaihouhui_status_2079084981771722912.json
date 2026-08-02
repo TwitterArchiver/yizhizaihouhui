@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079084941078622208"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2079084981771722912",
+    "created_at": "2026-07-20T06:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079084981771722912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4pLB8Dh99l",
+          "end": 29,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2079084981771722912/video/1",
+          "media_key": "13_2079084941078622208",
+          "start": 6,
+          "url": "https://t.co/4pLB8Dh99l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079084981771722912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欧哈哟学妹 https://t.co/4pLB8Dh99l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8200,
+        "height": 960,
+        "media_key": "13_2079084941078622208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079084941078622208/img/QwPrRuih_NmzRVEu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079084941078622208/vid/avc1/320x426/MD-6psDm5WBempI2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079084941078622208/vid/avc1/480x640/cgsSx4aiaJE-E7XS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079084941078622208/vid/avc1/720x960/bjgOSPTLMIb4xKVr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079084941078622208/pl/pgZRboW87R9yvl3U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079084941078622208"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2079084981771722912",
+        "created_at": "2026-07-20T06:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079084981771722912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4pLB8Dh99l",
+              "end": 29,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2079084981771722912/video/1",
+              "media_key": "13_2079084941078622208",
+              "start": 6,
+              "url": "https://t.co/4pLB8Dh99l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079084981771722912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧哈哟学妹 https://t.co/4pLB8Dh99l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 55,
+          "like_count": 1276,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1136
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2080365208703574269",
+    "created_at": "2026-07-23T18:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080365208703574269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一直在后悔’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1YxNr…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1YxNrrnVYdoxw",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2080365210049949696/-Kxk4Y0b?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080365210049949696/-Kxk4Y0b?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 诉说原神家庭",
+          "unwound_url": "https://twitter.com/i/spaces/1YxNrrnVYdoxw/peek",
+          "url": "https://t.co/h1SpQL4030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080365208703574269",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/h1SpQL4030"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2080365208703574269",
+        "created_at": "2026-07-23T18:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080365208703574269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一直在后悔’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YxNr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YxNrrnVYdoxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2080365210049949696/-Kxk4Y0b?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080365210049949696/-Kxk4Y0b?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 诉说原神家庭",
+              "unwound_url": "https://twitter.com/i/spaces/1YxNrrnVYdoxw/peek",
+              "url": "https://t.co/h1SpQL4030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080365208703574269",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h1SpQL4030"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 45,
+          "like_count": 1288,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

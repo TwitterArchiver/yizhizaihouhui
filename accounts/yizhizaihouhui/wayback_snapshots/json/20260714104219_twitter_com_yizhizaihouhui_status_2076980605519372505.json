@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076957091613597696",
+        "3_2076957089885478912",
+        "3_2076957090439155712",
+        "3_2076957091861078016"
+      ],
+      "media_source_tweet_id": [
+        "2076957094813839400",
+        "2076957094813839400",
+        "2076957094813839400",
+        "2076957094813839400"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2076980605519372505",
+    "created_at": "2026-07-14T10:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076980605519372505"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "福利姬"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "微胖"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "大奶"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1289504272506392576",
+          "start": 3,
+          "username": "BabysnakeViolet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uwwd527CVe",
+          "end": 75,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+          "media_key": "3_2076957091613597696",
+          "start": 52,
+          "url": "https://t.co/Uwwd527CVe"
+        },
+        {
+          "display_url": "pic.x.com/Uwwd527CVe",
+          "end": 75,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+          "media_key": "3_2076957089885478912",
+          "start": 52,
+          "url": "https://t.co/Uwwd527CVe"
+        },
+        {
+          "display_url": "pic.x.com/Uwwd527CVe",
+          "end": 75,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+          "media_key": "3_2076957090439155712",
+          "start": 52,
+          "url": "https://t.co/Uwwd527CVe"
+        },
+        {
+          "display_url": "pic.x.com/Uwwd527CVe",
+          "end": 75,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+          "media_key": "3_2076957091861078016",
+          "start": 52,
+          "url": "https://t.co/Uwwd527CVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076980605519372505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076957094813839400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BabysnakeViolet: 尝试营业ing……＃门槛妹 ＃福利姬 ＃微胖 ＃大奶 ＃金主 https://t.co/Uwwd527CVe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076957091613597696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLVeHtbYAArkIX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2076957089885478912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLVeBRaYAAWFq8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2076957090439155712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLVeDVa0AAgZJo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2076957091861078016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLVeIoboAA2ohq.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076957091613597696",
+            "3_2076957089885478912",
+            "3_2076957090439155712",
+            "3_2076957091861078016"
+          ],
+          "media_source_tweet_id": [
+            "2076957094813839400",
+            "2076957094813839400",
+            "2076957094813839400",
+            "2076957094813839400"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076980605519372505",
+        "created_at": "2026-07-14T10:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076980605519372505"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "福利姬"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "微胖"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "大奶"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "金主"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1289504272506392576",
+              "start": 3,
+              "username": "BabysnakeViolet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 75,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957091613597696",
+              "start": 52,
+              "url": "https://t.co/Uwwd527CVe"
+            },
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 75,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957089885478912",
+              "start": 52,
+              "url": "https://t.co/Uwwd527CVe"
+            },
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 75,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957090439155712",
+              "start": 52,
+              "url": "https://t.co/Uwwd527CVe"
+            },
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 75,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957091861078016",
+              "start": 52,
+              "url": "https://t.co/Uwwd527CVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076980605519372505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076957094813839400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BabysnakeViolet: 尝试营业ing……＃门槛妹 ＃福利姬 ＃微胖 ＃大奶 ＃金主 https://t.co/Uwwd527CVe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076957091613597696",
+            "3_2076957089885478912",
+            "3_2076957090439155712",
+            "3_2076957091861078016"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "2076957094813839400",
+        "created_at": "2026-07-14T09:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076957094813839400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "福利姬"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "微胖"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "大奶"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 54,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957091613597696",
+              "start": 31,
+              "url": "https://t.co/Uwwd527CVe"
+            },
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 54,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957089885478912",
+              "start": 31,
+              "url": "https://t.co/Uwwd527CVe"
+            },
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 54,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957090439155712",
+              "start": 31,
+              "url": "https://t.co/Uwwd527CVe"
+            },
+            {
+              "display_url": "pic.x.com/Uwwd527CVe",
+              "end": 54,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2076957094813839400/photo/1",
+              "media_key": "3_2076957091861078016",
+              "start": 31,
+              "url": "https://t.co/Uwwd527CVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076957094813839400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "尝试营业ing……＃门槛妹 ＃福利姬 ＃微胖 ＃大奶 ＃金主 https://t.co/Uwwd527CVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 56,
+          "like_count": 1270,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 618,
+          "like_count": 2921,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

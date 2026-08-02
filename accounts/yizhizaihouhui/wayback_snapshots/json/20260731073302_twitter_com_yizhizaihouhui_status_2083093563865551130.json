@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2083093563865551130",
+    "created_at": "2026-07-31T07:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083093563865551130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922389433510461442",
+          "start": 3,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083093563865551130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082880636507820250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RieXwX: 我喜欢的人必须是社交孤儿 敢和我以外没有血缘关系的人说话马上死全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2083093563865551130",
+        "created_at": "2026-07-31T07:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083093563865551130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922389433510461442",
+              "start": 3,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083093563865551130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082880636507820250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RieXwX: 我喜欢的人必须是社交孤儿 敢和我以外没有血缘关系的人说话马上死全家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922389433510461442",
+        "conversation_id": "2082880636507820250",
+        "created_at": "2026-07-30T17:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082880636507820250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082880636507820250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2478,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的人必须是社交孤儿 敢和我以外没有血缘关系的人说话马上死全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2082150814752350319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 43,
+          "like_count": 1323,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10135,
+          "following_count": 53,
+          "like_count": 407,
+          "listed_count": 11,
+          "media_count": 382,
+          "tweet_count": 1427
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

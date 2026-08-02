@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080980952642437120"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2080980974855483593",
+    "created_at": "2026-07-25T11:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080980974855483593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DxRuhv4xey",
+          "end": 43,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2080980974855483593/photo/1",
+          "media_key": "3_2080980952642437120",
+          "start": 20,
+          "url": "https://t.co/DxRuhv4xey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080980974855483593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我存在的意义就是给凡人一个接触神的机会 https://t.co/DxRuhv4xey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2080980952642437120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEhJqKbQAAg3Cq.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080980952642437120"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2080980974855483593",
+        "created_at": "2026-07-25T11:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080980974855483593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxRuhv4xey",
+              "end": 43,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2080980974855483593/photo/1",
+              "media_key": "3_2080980952642437120",
+              "start": 20,
+              "url": "https://t.co/DxRuhv4xey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080980974855483593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我存在的意义就是给凡人一个接触神的机会 https://t.co/DxRuhv4xey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 45,
+          "like_count": 1291,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

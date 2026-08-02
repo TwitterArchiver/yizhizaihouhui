@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2076923450485276754",
+    "created_at": "2026-07-14T07:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076928152891490343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885260940008181760",
+          "start": 0,
+          "username": "Nvnang_yp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076928152891490343",
+    "in_reply_to_user_id": "1885260940008181760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076927221831184412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nvnang_yp 普通人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076923450485276754",
+        "created_at": "2026-07-14T07:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076928152891490343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885260940008181760",
+              "start": 0,
+              "username": "Nvnang_yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076928152891490343",
+        "in_reply_to_user_id": "1885260940008181760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076927221831184412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nvnang_yp 普通人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885260940008181760",
+        "conversation_id": "2076923450485276754",
+        "created_at": "2026-07-14T07:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076927221831184412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "yizhizaihouhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076927221831184412",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076923450485276754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhizaihouhui coser吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 56,
+          "like_count": 1270,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T09:37:01.000Z",
+        "description": "",
+        "id": "1885260940008181760",
+        "location": "武汉",
+        "name": "临",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076514117100204032/qMIypytd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 55,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Nvnang_yp",
+        "verified": false
+      }
+    ]
+  }
+}

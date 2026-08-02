@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079227564892336128"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2079227580444774501",
+    "created_at": "2026-07-20T15:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079227580444774501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vEHuXmrRQK",
+          "end": 29,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2079227580444774501/photo/1",
+          "media_key": "3_2079227564892336128",
+          "start": 6,
+          "url": "https://t.co/vEHuXmrRQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079227580444774501",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✌️mua https://t.co/vEHuXmrRQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079227564892336128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrmdDybsAAwd3u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079227564892336128"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2079227580444774501",
+        "created_at": "2026-07-20T15:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079227580444774501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEHuXmrRQK",
+              "end": 29,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2079227580444774501/photo/1",
+              "media_key": "3_2079227564892336128",
+              "start": 6,
+              "url": "https://t.co/vEHuXmrRQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079227580444774501",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✌️mua https://t.co/vEHuXmrRQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 54,
+          "like_count": 1277,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

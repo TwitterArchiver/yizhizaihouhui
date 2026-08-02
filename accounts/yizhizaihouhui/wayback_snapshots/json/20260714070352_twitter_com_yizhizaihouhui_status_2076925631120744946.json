@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2076598252951183431",
+    "created_at": "2026-07-14T07:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076925631120744946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900688917902282752",
+          "start": 0,
+          "username": "icecake999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076925631120744946",
+    "in_reply_to_user_id": "1900688917902282752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076598252951183431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icecake999 我也是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1897,
+        "media_key": "3_2076598246047453184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGPGjzbkAAwA_d.jpg",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076598252951183431",
+        "created_at": "2026-07-14T07:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076925631120744946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900688917902282752",
+              "start": 0,
+              "username": "icecake999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076925631120744946",
+        "in_reply_to_user_id": "1900688917902282752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076598252951183431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icecake999 我也是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076598246047453184"
+          ]
+        },
+        "author_id": "1900688917902282752",
+        "conversation_id": "2076598252951183431",
+        "created_at": "2026-07-13T09:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076598252951183431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPZdRKW9kS",
+              "end": 45,
+              "expanded_url": "https://x.com/icecake999/status/2076598252951183431/photo/1",
+              "media_key": "3_2076598246047453184",
+              "start": 22,
+              "url": "https://t.co/UPZdRKW9kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076598252951183431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17850,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天才收到这些私信 \n推特我不懂您怎么了… https://t.co/UPZdRKW9kS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 56,
+          "like_count": 1270,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T23:22:37.000Z",
+        "description": "说点梦话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/icecake56798",
+                "end": 23,
+                "expanded_url": "https://ngl.link/icecake56798",
+                "start": 0,
+                "url": "https://t.co/JWF1bTTtD8"
+              }
+            ]
+          }
+        },
+        "id": "1900688917902282752",
+        "location": "青青草原",
+        "name": "冰煮羊",
+        "pinned_tweet_id": "2003149885328228534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906728949675081728/CUWsAtPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 36,
+          "like_count": 2313,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/JWF1bTTtD8",
+        "username": "icecake999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2076007186258612355",
+    "created_at": "2026-07-12T15:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076332835246616831"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076332835246616831",
+    "in_reply_to_user_id": "1916074220108582912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076007186258612355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这一条比我照片流量好？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076007178583060480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM91h56asAAMNVT.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076007178557882369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM91h50agAEyQju.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076007186258612355",
+        "created_at": "2026-07-12T15:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076332835246616831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076332835246616831",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076007186258612355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这一条比我照片流量好？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076007178583060480",
+            "3_2076007178557882369"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2076007186258612355",
+        "created_at": "2026-07-11T18:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076007186258612355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5FmpoatUJ",
+              "end": 33,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/2076007186258612355/photo/1",
+              "media_key": "3_2076007178583060480",
+              "start": 10,
+              "url": "https://t.co/e5FmpoatUJ"
+            },
+            {
+              "display_url": "pic.x.com/e5FmpoatUJ",
+              "end": 33,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/2076007186258612355/photo/1",
+              "media_key": "3_2076007178557882369",
+              "start": 10,
+              "url": "https://t.co/e5FmpoatUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076007186258612355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23695,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看不到评论T_T https://t.co/e5FmpoatUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 53,
+          "like_count": 1251,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

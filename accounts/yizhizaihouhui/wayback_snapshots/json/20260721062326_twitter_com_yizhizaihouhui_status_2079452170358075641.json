@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079452153006206976",
+        "3_2079452152993579008"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079452170358075641",
+    "created_at": "2026-07-21T06:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079452170358075641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaeVjrJUNG",
+          "end": 46,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2079452170358075641/photo/1",
+          "media_key": "3_2079452153006206976",
+          "start": 23,
+          "url": "https://t.co/SaeVjrJUNG"
+        },
+        {
+          "display_url": "pic.x.com/SaeVjrJUNG",
+          "end": 46,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2079452170358075641/photo/1",
+          "media_key": "3_2079452152993579008",
+          "start": 23,
+          "url": "https://t.co/SaeVjrJUNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079452170358075641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直在说我传递负能量，可这明明就是我的日常啊 https://t.co/SaeVjrJUNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079452153006206976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuytztbMAAFZAX.jpg",
+        "width": 1546
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079452152993579008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuytzqagAAepdL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079452153006206976",
+            "3_2079452152993579008"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079452170358075641",
+        "created_at": "2026-07-21T06:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079452170358075641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaeVjrJUNG",
+              "end": 46,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2079452170358075641/photo/1",
+              "media_key": "3_2079452153006206976",
+              "start": 23,
+              "url": "https://t.co/SaeVjrJUNG"
+            },
+            {
+              "display_url": "pic.x.com/SaeVjrJUNG",
+              "end": 46,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2079452170358075641/photo/1",
+              "media_key": "3_2079452152993579008",
+              "start": 23,
+              "url": "https://t.co/SaeVjrJUNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079452170358075641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直在说我传递负能量，可这明明就是我的日常啊 https://t.co/SaeVjrJUNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 54,
+          "like_count": 1279,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

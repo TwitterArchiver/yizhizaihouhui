@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080283832750931968"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2080283866926121203",
+    "created_at": "2026-07-23T13:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080283866926121203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OeXxiHevE1",
+          "end": 25,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2080283866926121203/video/1",
+          "media_key": "13_2080283832750931968",
+          "start": 2,
+          "url": "https://t.co/OeXxiHevE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080283866926121203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵 https://t.co/OeXxiHevE1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8706,
+        "height": 960,
+        "media_key": "13_2080283832750931968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080283832750931968/img/dKaUoXd5jEhbjfBj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283832750931968/vid/avc1/320x426/c1fzHLjgBHiqr2P8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283832750931968/vid/avc1/480x640/5CjNhNi0iOTUmOGa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283832750931968/vid/avc1/720x960/1_nqq6OwGdRVcV6-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080283832750931968/pl/pDqglBBynNxzHaXn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080283832750931968"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2080283866926121203",
+        "created_at": "2026-07-23T13:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080283866926121203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeXxiHevE1",
+              "end": 25,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2080283866926121203/video/1",
+              "media_key": "13_2080283832750931968",
+              "start": 2,
+              "url": "https://t.co/OeXxiHevE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283866926121203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/OeXxiHevE1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 44,
+          "like_count": 1288,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      }
+    ]
+  }
+}

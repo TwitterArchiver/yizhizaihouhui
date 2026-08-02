@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2077535857163239531",
+    "created_at": "2026-07-15T23:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077535857163239531"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "租借女友"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "门槛"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "线下"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "半绿"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "纯绿"
+        },
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1911065897067859968",
+          "start": 3,
+          "username": "minamotoyayoai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077535857163239531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046968598162202776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minamotoyayoai: 你们好我是早早/小愛！\n我很缺钱呀即将高中毕业，想积攒大学生活费和买衣服、女宝欢迎互转互粉呀🥺我有心理疾病但平时很温良、过我门我会对你好的，谢谢你们给我钱love\n#租借女友 #门槛 #门槛妹 #线下 #半绿 #纯绿 #爸爸活 #纯绿 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046968563529908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhLEC-XgAA5z79.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1654,
+        "media_key": "3_2046968563500478464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhLEC3WcAAA6Gf.jpg",
+        "width": 1656
+      },
+      {
+        "height": 1656,
+        "media_key": "3_2046968563492093953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhLEC1WgAEBGB1.jpg",
+        "width": 1656
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046968565064953857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhLEIsWcAEzSFW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2077535857163239531",
+        "created_at": "2026-07-15T23:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077535857163239531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "租借女友"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "门槛"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "线下"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "半绿"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "纯绿"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "纯绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1911065897067859968",
+              "start": 3,
+              "username": "minamotoyayoai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077535857163239531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046968598162202776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minamotoyayoai: 你们好我是早早/小愛！\n我很缺钱呀即将高中毕业，想积攒大学生活费和买衣服、女宝欢迎互转互粉呀🥺我有心理疾病但平时很温良、过我门我会对你好的，谢谢你们给我钱love\n#租借女友 #门槛 #门槛妹 #线下 #半绿 #纯绿 #爸爸活 #纯绿 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046968563529908224",
+            "3_2046968563500478464",
+            "3_2046968563492093953",
+            "3_2046968565064953857"
+          ]
+        },
+        "author_id": "1911065897067859968",
+        "conversation_id": "2046968598162202776",
+        "created_at": "2026-04-22T15:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046968598162202776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "租借女友"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "门槛"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "线下"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "半绿"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "纯绿"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "纯绿"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "过门"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "女高"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "原味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9d7K9eYwH",
+              "end": 153,
+              "expanded_url": "https://x.com/minamotoyayoai/status/2046968598162202776/photo/1",
+              "media_key": "3_2046968563529908224",
+              "start": 130,
+              "url": "https://t.co/k9d7K9eYwH"
+            },
+            {
+              "display_url": "pic.x.com/k9d7K9eYwH",
+              "end": 153,
+              "expanded_url": "https://x.com/minamotoyayoai/status/2046968598162202776/photo/1",
+              "media_key": "3_2046968563500478464",
+              "start": 130,
+              "url": "https://t.co/k9d7K9eYwH"
+            },
+            {
+              "display_url": "pic.x.com/k9d7K9eYwH",
+              "end": 153,
+              "expanded_url": "https://x.com/minamotoyayoai/status/2046968598162202776/photo/1",
+              "media_key": "3_2046968563492093953",
+              "start": 130,
+              "url": "https://t.co/k9d7K9eYwH"
+            },
+            {
+              "display_url": "pic.x.com/k9d7K9eYwH",
+              "end": 153,
+              "expanded_url": "https://x.com/minamotoyayoai/status/2046968598162202776/photo/1",
+              "media_key": "3_2046968565064953857",
+              "start": 130,
+              "url": "https://t.co/k9d7K9eYwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046968598162202776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 31644,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是早早/小愛！\n我很缺钱呀即将高中毕业，想积攒大学生活费和买衣服、女宝欢迎互转互粉呀🥺我有心理疾病但平时很温良、过我门我会对你好的，谢谢你们给我钱love\n#租借女友 #门槛 #门槛妹 #线下 #半绿 #纯绿 #爸爸活 #纯绿 #过门 #女高 #原味 https://t.co/k9d7K9eYwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2057703092850921603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 55,
+          "like_count": 1271,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T14:36:52.000Z",
+        "description": "请入我门（土下座） 欢迎互转互粉 ～ 🚪52/88/188/288/520入门不退哦感谢支持 🐭🍬🍎我喜欢猫 电子烟 药物 紫色 互联网，谢谢大家呀！另外在做替西代理，三码合一保正，推友打折hh",
+        "id": "1911065897067859968",
+        "location": "海拉鲁大陆",
+        "name": "血緣是與哥哥的紅線",
+        "pinned_tweet_id": "2046968598162202776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911066439961718784/R7o7OKC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 34,
+          "like_count": 53,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "minamotoyayoai",
+        "verified": false
+      }
+    ]
+  }
+}
