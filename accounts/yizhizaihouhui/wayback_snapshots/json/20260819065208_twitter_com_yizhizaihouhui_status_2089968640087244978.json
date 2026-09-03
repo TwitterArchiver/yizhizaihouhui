@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2089968640087244978",
+    "created_at": "2026-08-19T06:52:08.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089968640087244978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yizhizaihouhui…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yizhizaihouhui/status/2089935869440655861",
+          "start": 24,
+          "url": "https://t.co/urVsBpyHV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089968640087244978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089935869440655861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁给窝转的28.8？？？？我拿去喝奶茶了气不气 https://t.co/urVsBpyHV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2089935857222635521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDxltUbUAE2JSi.jpg",
+        "width": 992
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2089935857210040320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDxltRbIAAe-jO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2089968640087244978",
+        "created_at": "2026-08-19T06:52:08.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089968640087244978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yizhizaihouhui…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yizhizaihouhui/status/2089935869440655861",
+              "start": 24,
+              "url": "https://t.co/urVsBpyHV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089968640087244978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089935869440655861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁给窝转的28.8？？？？我拿去喝奶茶了气不气 https://t.co/urVsBpyHV6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089935857222635521",
+            "3_2089935857210040320"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2089935869440655861",
+        "created_at": "2026-08-19T04:41:55.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089935869440655861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdDGtN5Ky4",
+              "end": 26,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2089935869440655861/photo/1",
+              "media_key": "3_2089935857222635521",
+              "start": 3,
+              "url": "https://t.co/wdDGtN5Ky4"
+            },
+            {
+              "display_url": "pic.x.com/wdDGtN5Ky4",
+              "end": 26,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2089935869440655861/photo/1",
+              "media_key": "3_2089935857210040320",
+              "start": 3,
+              "url": "https://t.co/wdDGtN5Ky4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089935869440655861",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089935857222635521"
+          },
+          {
+            "media_key": "3_2089935857210040320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢 https://t.co/wdDGtN5Ky4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2089968640087244978",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 39,
+          "like_count": 1328,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 1166
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

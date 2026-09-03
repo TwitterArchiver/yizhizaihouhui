@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088653840711299072"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2088653884969619691",
+    "created_at": "2026-08-15T15:47:46.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088653884969619691"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 10,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "门槛"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "纯绿"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "陪聊"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "电子女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtxGsJw1sN",
+          "end": 81,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2088653884969619691/video/1",
+          "media_key": "13_2088653840711299072",
+          "start": 58,
+          "url": "https://t.co/QtxGsJw1sN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088653884969619691",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088653840711299072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我问你能不能记得？\n#地雷系と繋がりたい #病み垢女子 #自撮り界隈 #门槛 #门槛妹 #纯绿 #陪聊 #电子女友 https://t.co/QtxGsJw1sN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15036,
+        "height": 960,
+        "media_key": "13_2088653840711299072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088653840711299072/img/JYcLL7MT224A8L7T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088653840711299072/vid/avc1/320x426/L0c6DgIWC2GOoFh1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088653840711299072/vid/avc1/480x640/OET9kkI7w69xuW66.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088653840711299072/vid/avc1/720x960/2nP81I7tYbeYkK7F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088653840711299072/pl/_Ic4u0IqXOm0Kgev.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088653840711299072"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2088653884969619691",
+        "created_at": "2026-08-15T15:47:46.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088653884969619691"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "门槛"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "纯绿"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "陪聊"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtxGsJw1sN",
+              "end": 81,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2088653884969619691/video/1",
+              "media_key": "13_2088653840711299072",
+              "start": 58,
+              "url": "https://t.co/QtxGsJw1sN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088653884969619691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088653840711299072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我问你能不能记得？\n#地雷系と繋がりたい #病み垢女子 #自撮り界隈 #门槛 #门槛妹 #纯绿 #陪聊 #电子女友 https://t.co/QtxGsJw1sN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2088653884969619691",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 41,
+          "like_count": 1318,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
