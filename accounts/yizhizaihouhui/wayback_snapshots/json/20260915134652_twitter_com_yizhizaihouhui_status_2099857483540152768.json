@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099857467572367360"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2099857483540152768",
+    "created_at": "2026-09-15T13:46:52.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099857483540152768"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 1,
+          "tag": "蕾塞"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "电锯人"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Pd3ZbiVJy",
+          "end": 33,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2099857483540152768/photo/1",
+          "media_key": "3_2099857467572367360",
+          "start": 10,
+          "url": "https://t.co/0Pd3ZbiVJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099857483540152768",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2099857467572367360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💣#蕾塞 #电锯人 https://t.co/0Pd3ZbiVJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099857467572367360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQxPcGaMAANFBX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099857467572367360"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2099857483540152768",
+        "created_at": "2026-09-15T13:46:52.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099857483540152768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 1,
+              "tag": "蕾塞"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "电锯人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Pd3ZbiVJy",
+              "end": 33,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2099857483540152768/photo/1",
+              "media_key": "3_2099857467572367360",
+              "start": 10,
+              "url": "https://t.co/0Pd3ZbiVJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099857483540152768",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099857467572367360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💣#蕾塞 #电锯人 https://t.co/0Pd3ZbiVJy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2099857483540152768",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 39,
+          "like_count": 1421,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1195
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

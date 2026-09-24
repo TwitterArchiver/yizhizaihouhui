@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098652461439553536"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2098652474173473118",
+    "created_at": "2026-09-12T05:58:35.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098652474173473118"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "门槛"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "纯绿"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "陪聊"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "电子女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3r1D3pyhA5",
+          "end": 85,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2098652474173473118/photo/1",
+          "media_key": "3_2098652461439553536",
+          "start": 62,
+          "url": "https://t.co/3r1D3pyhA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098652474173473118",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098652461439553536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对的就是那两个字，你知道的\n#地雷系と繋がりたい #病み垢女子 #自撮り界隈 #门槛 #门槛妹 #纯绿 #陪聊 #电子女友 https://t.co/3r1D3pyhA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098652461439553536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_pS2cakAAtmAr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098652461439553536"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2098652474173473118",
+        "created_at": "2026-09-12T05:58:35.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098652474173473118"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "门槛"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "纯绿"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "陪聊"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3r1D3pyhA5",
+              "end": 85,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2098652474173473118/photo/1",
+              "media_key": "3_2098652461439553536",
+              "start": 62,
+              "url": "https://t.co/3r1D3pyhA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098652474173473118",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098652461439553536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对的就是那两个字，你知道的\n#地雷系と繋がりたい #病み垢女子 #自撮り界隈 #门槛 #门槛妹 #纯绿 #陪聊 #电子女友 https://t.co/3r1D3pyhA5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2098652474173473118",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 39,
+          "like_count": 1371,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 1184
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

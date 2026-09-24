@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098962831664361472"
+      ],
+      "media_source_tweet_id": [
+        "2098962836860862630"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099208147026203071",
+    "created_at": "2026-09-13T18:46:38.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099208147026203071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937739242991423488",
+          "start": 3,
+          "username": "ahripaulista"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQfqVsgo0F",
+          "end": 106,
+          "expanded_url": "https://x.com/ahripaulista/status/2098962836860862630/photo/1",
+          "media_key": "3_2098962831664361472",
+          "start": 83,
+          "url": "https://t.co/hQfqVsgo0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099208147026203071",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2098962831664361472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098962836860862630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ahripaulista: meu marido vai chegar do trabalho e ter essa visão aqui todo dia https://t.co/hQfqVsgo0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2098962831664361472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEDkxoaMAAHGu6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098962831664361472"
+          ],
+          "media_source_tweet_id": [
+            "2098962836860862630"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099208147026203071",
+        "created_at": "2026-09-13T18:46:38.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099208147026203071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937739242991423488",
+              "start": 3,
+              "username": "ahripaulista"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQfqVsgo0F",
+              "end": 106,
+              "expanded_url": "https://x.com/ahripaulista/status/2098962836860862630/photo/1",
+              "media_key": "3_2098962831664361472",
+              "start": 83,
+              "url": "https://t.co/hQfqVsgo0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099208147026203071",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2098962831664361472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098962836860862630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ahripaulista: meu marido vai chegar do trabalho e ter essa visão aqui todo dia https://t.co/hQfqVsgo0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098962831664361472"
+          ]
+        },
+        "author_id": "1937739242991423488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098962836860862630",
+        "created_at": "2026-09-13T02:31:51.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098962836860862630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQfqVsgo0F",
+              "end": 88,
+              "expanded_url": "https://x.com/ahripaulista/status/2098962836860862630/photo/1",
+              "media_key": "3_2098962831664361472",
+              "start": 65,
+              "url": "https://t.co/hQfqVsgo0F"
+            },
+            {
+              "display_url": "x.com/niellelarpchan…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/niellelarpchan/status/2098764107029590100",
+              "start": 89,
+              "url": "https://t.co/PKYpJhPzzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098962836860862630",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2098962831664361472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 111133,
+          "like_count": 7313,
+          "quote_count": 68,
+          "reply_count": 28,
+          "retweet_count": 1471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098764107029590100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "meu marido vai chegar do trabalho e ter essa visão aqui todo dia https://t.co/hQfqVsgo0F https://t.co/PKYpJhPzzd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2099208147026203071",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 39,
+          "like_count": 1383,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T05:06:58.000Z",
+        "description": "⪩ ⪨ ꠹",
+        "id": "1937739242991423488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099184239757467655",
+        "name": "♱",
+        "pinned_tweet_id": "2094094607550120178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937739242991423488/1787020043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089539579468533760/n74BHpk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 1108,
+          "like_count": 29682,
+          "listed_count": 2,
+          "media_count": 742,
+          "tweet_count": 7752
+        },
+        "url": "",
+        "username": "ahripaulista",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

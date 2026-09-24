@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098479538758172672",
+        "3_2098479538758119424"
+      ]
+    },
+    "author_id": "1916074220108582912",
+    "conversation_id": "2098479551861203105",
+    "created_at": "2026-09-11T18:31:27.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098479551861203105"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 71,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 95,
+          "start": 89,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "门槛"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "纯绿"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "陪聊"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "电子女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4JyWkB3oQo",
+          "end": 142,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2098479551861203105/photo/1",
+          "media_key": "3_2098479538758172672",
+          "start": 119,
+          "url": "https://t.co/4JyWkB3oQo"
+        },
+        {
+          "display_url": "pic.x.com/4JyWkB3oQo",
+          "end": 142,
+          "expanded_url": "https://x.com/yizhizaihouhui/status/2098479551861203105/photo/1",
+          "media_key": "3_2098479538758119424",
+          "start": 119,
+          "url": "https://t.co/4JyWkB3oQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098479551861203105",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098479538758172672"
+      },
+      {
+        "media_key": "3_2098479538758119424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次一打开手机就有我的消息，是不是很惊喜很意外很开心很甜很暖很心动很欢喜很雀跃很幸福很上头很满足很贴心很宠溺很美好很心安很愉悦很温柔很喜欢？\n#地雷系と繋がりたい #病み垢女子 #自撮り界隈 #门槛 #门槛妹 #纯绿 #陪聊 #电子女友 https://t.co/4JyWkB3oQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098479538758172672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9MBbQbQAAJdKg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098479538758119424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9MBbQacAA6fzO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098479538758172672",
+            "3_2098479538758119424"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "2098479551861203105",
+        "created_at": "2026-09-11T18:31:27.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098479551861203105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 95,
+              "start": 89,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "门槛"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "纯绿"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "陪聊"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JyWkB3oQo",
+              "end": 142,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2098479551861203105/photo/1",
+              "media_key": "3_2098479538758172672",
+              "start": 119,
+              "url": "https://t.co/4JyWkB3oQo"
+            },
+            {
+              "display_url": "pic.x.com/4JyWkB3oQo",
+              "end": 142,
+              "expanded_url": "https://x.com/yizhizaihouhui/status/2098479551861203105/photo/1",
+              "media_key": "3_2098479538758119424",
+              "start": 119,
+              "url": "https://t.co/4JyWkB3oQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098479551861203105",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098479538758172672"
+          },
+          {
+            "media_key": "3_2098479538758119424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次一打开手机就有我的消息，是不是很惊喜很意外很开心很甜很暖很心动很欢喜很雀跃很幸福很上头很满足很贴心很宠溺很美好很心安很愉悦很温柔很喜欢？\n#地雷系と繋がりたい #病み垢女子 #自撮り界隈 #门槛 #门槛妹 #纯绿 #陪聊 #电子女友 https://t.co/4JyWkB3oQo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2098479551861203105",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 39,
+          "like_count": 1369,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

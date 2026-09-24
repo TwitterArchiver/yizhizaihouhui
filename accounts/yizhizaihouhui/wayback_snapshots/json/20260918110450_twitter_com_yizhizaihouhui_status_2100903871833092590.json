@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2100903871833092590",
+    "created_at": "2026-09-18T11:04:50.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100903871833092590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dreadheadfatty…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dreadheadfatty_/status/2089430322354270631",
+          "start": 5,
+          "url": "https://t.co/Ul6PQkN2Fb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100903871833092590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089430322354270631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是小夜 https://t.co/Ul6PQkN2Fb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089430304679403520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8lyrVaIAAvw3W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089430304683683840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8lyrWbcAA76Ur.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2089430304700395520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8lyraacAA3sfN.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2089430304692015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8lyrYakAA6_A_.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2100903871833092590",
+        "created_at": "2026-09-18T11:04:50.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100903871833092590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dreadheadfatty…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dreadheadfatty_/status/2089430322354270631",
+              "start": 5,
+              "url": "https://t.co/Ul6PQkN2Fb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100903871833092590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089430322354270631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是小夜 https://t.co/Ul6PQkN2Fb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089430304679403520",
+            "3_2089430304683683840",
+            "3_2089430304700395520",
+            "3_2089430304692015104"
+          ]
+        },
+        "author_id": "3388600162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2089430322354270631",
+        "created_at": "2026-08-17T19:13:03.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089430322354270631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsqweOTw5f",
+              "end": 105,
+              "expanded_url": "https://x.com/DreadHeadFatty_/status/2089430322354270631/photo/1",
+              "media_key": "3_2089430304679403520",
+              "start": 82,
+              "url": "https://t.co/lsqweOTw5f"
+            },
+            {
+              "display_url": "pic.x.com/lsqweOTw5f",
+              "end": 105,
+              "expanded_url": "https://x.com/DreadHeadFatty_/status/2089430322354270631/photo/1",
+              "media_key": "3_2089430304683683840",
+              "start": 82,
+              "url": "https://t.co/lsqweOTw5f"
+            },
+            {
+              "display_url": "pic.x.com/lsqweOTw5f",
+              "end": 105,
+              "expanded_url": "https://x.com/DreadHeadFatty_/status/2089430322354270631/photo/1",
+              "media_key": "3_2089430304700395520",
+              "start": 82,
+              "url": "https://t.co/lsqweOTw5f"
+            },
+            {
+              "display_url": "pic.x.com/lsqweOTw5f",
+              "end": 105,
+              "expanded_url": "https://x.com/DreadHeadFatty_/status/2089430322354270631/photo/1",
+              "media_key": "3_2089430304692015104",
+              "start": 82,
+              "url": "https://t.co/lsqweOTw5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089430322354270631",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089430304679403520"
+          },
+          {
+            "media_key": "3_2089430304683683840"
+          },
+          {
+            "media_key": "3_2089430304700395520"
+          },
+          {
+            "media_key": "3_2089430304692015104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 15494,
+          "like_count": 98,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "following",
+        "text": "我是小夜曾用名月神夜十六夜\n已成年休学中家里蹲小狗一枚\n一个问题五块钱验证十块钱可以抵门槛\n如果喜欢我请给我钱我想吃萨莉亚寿司郎窑鸡王滨寿司板烧鸡腿堡KFC原味鸡 https://t.co/lsqweOTw5f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2100903871833092590",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 40,
+          "like_count": 1423,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-23T04:22:20.000Z",
+        "description": "互转大欢迎限100粉以上🚪52.188.333.520.1314谨慎消费门槛不退 | 已成年休学中 | 一个问题五块钱验证十块钱可以抵门槛 | 原味直接私信购买11和定制需要过门 | 188rmb解锁我2024至今所有裸舞自慰脸逼奶同框视频照片包后续更新🫶🏻",
+        "id": "3388600162",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100813003302261000",
+        "name": "不要掠夺我们的记忆",
+        "pinned_tweet_id": "2089430322354270631",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3388600162/1786606418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087804684425990144/wk49_Etm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 40,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "DreadHeadFatty_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
