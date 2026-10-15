@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1916074220108582912",
+    "conversation_id": "2102030921901986257",
+    "created_at": "2026-09-21T13:43:20.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102030921901986257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minmin89485072…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/minmin89485072/status/2101957091724558414",
+          "start": 11,
+          "url": "https://t.co/OVUQcpeZsI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102030921901986257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101957091724558414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一看就是自残流的血😅 https://t.co/OVUQcpeZsI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13071,
+        "height": 960,
+        "media_key": "13_2101957079032569856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101957079032569856/img/r3E4K2Tphr3zJ40C.jpg",
+        "public_metrics": {
+          "view_count": 216209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101957079032569856/vid/avc1/320x684/Z5hkPVZOJKA3F19h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101957079032569856/vid/avc1/448x960/R5-bhEDNyaH-msx_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101957079032569856/pl/fsFITFvTaIgajQ1U.m3u8?v=cfc"
+          }
+        ],
+        "width": 448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101957079036829697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSum06UboAErU8U.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2102030921901986257",
+        "created_at": "2026-09-21T13:43:20.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102030921901986257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minmin89485072…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/minmin89485072/status/2101957091724558414",
+              "start": 11,
+              "url": "https://t.co/OVUQcpeZsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102030921901986257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101957091724558414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一看就是自残流的血😅 https://t.co/OVUQcpeZsI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101957079032569856",
+            "3_2101957079036829697"
+          ]
+        },
+        "author_id": "1615158827376349185",
+        "conversation_id": "2101957091724558414",
+        "created_at": "2026-09-21T08:49:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101957091724558414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cci3oTmKNh",
+              "end": 62,
+              "expanded_url": "https://x.com/MinMin89485072/status/2101957091724558414/video/1",
+              "media_key": "13_2101957079032569856",
+              "start": 39,
+              "url": "https://t.co/Cci3oTmKNh"
+            },
+            {
+              "display_url": "pic.x.com/Cci3oTmKNh",
+              "end": 62,
+              "expanded_url": "https://x.com/MinMin89485072/status/2101957091724558414/video/1",
+              "media_key": "3_2101957079036829697",
+              "start": 39,
+              "url": "https://t.co/Cci3oTmKNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101957091724558414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101957079032569856"
+          },
+          {
+            "media_key": "3_2101957079036829697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 318298,
+          "like_count": 2649,
+          "quote_count": 32,
+          "reply_count": 136,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "太恐怖了😱！\n\n一名女生嫌舍友打游戏太吵，竟直接把舍友刀了。信息来源于：子砚 https://t.co/Cci3oTmKNh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "is_identity_verified": false,
+        "location": "✡️52",
+        "most_recent_tweet_id": "2102030921901986257",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2087101359330144564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916074220108582912/1758587705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072678118071083008/e5XqnsQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 40,
+          "like_count": 1447,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "yizhizaihouhui",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-17T01:28:17.000Z",
+        "description": "捍卫自由，享受自由",
+        "id": "1615158827376349185",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2101960559562531298",
+        "name": "郑敏",
+        "pinned_tweet_id": "1752151508920197394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1615158827376349185/1702426699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739811064005730304/_BfTzvUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19299,
+          "following_count": 2231,
+          "like_count": 1297,
+          "listed_count": 92,
+          "media_count": 2060,
+          "tweet_count": 4028
+        },
+        "url": "",
+        "username": "MinMin89485072",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
